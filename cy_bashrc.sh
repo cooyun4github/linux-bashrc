@@ -1,2 +1,2 @@
-source quick_cd.sh
-source git.sh
+source ~/script/quick_cd.sh
+source ~/script/git.sh
